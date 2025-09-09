@@ -1,4 +1,4 @@
-CATALOGUE_HOST: catalogue.devsecopspractice.site
+CATALOGUE_HOST: catalogue.devsecopspractice.site #ndvjf
 USER_HOST: user.devsecopspractice.site
 CART_HOST: cart.devsecopspractice.site
 SHIPPING_HOST: shipping.devsecopspractice.site
